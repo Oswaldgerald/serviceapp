@@ -5,7 +5,7 @@ import {LoggingService} from './logging.service';
 export class AccountsService {
   accounts = [
     {
-      name: 'Master Account',
+      name: 'MasterAccount',
       status: 'active'
     },
     {
@@ -13,7 +13,7 @@ export class AccountsService {
       status: 'inactive'
     },
     {
-      name: 'Hidden Account',
+      name: 'HiddenAccount',
       status: 'unknown'
     }
   ];
