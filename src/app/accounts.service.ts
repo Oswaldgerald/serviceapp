@@ -9,7 +9,7 @@ export class AccountsService {
       status: 'active'
     },
     {
-      name: 'Testaccount',
+      name: 'TestAccount',
       status: 'inactive'
     },
     {
