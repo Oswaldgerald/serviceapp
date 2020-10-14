@@ -2,6 +2,34 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.0.0.
 
+## Getting Started
+
+## Prerequisites
+
+1. [NodeJs (10 or higher)](https://nodejs.org)
+2. npm (6.4.0 or higher), can be installed by running `apt install npm`
+3. git, can be installed by running `apt install git`
+
+## Setup
+
+Clone repository
+
+```bash
+git@github.com:Oswaldgerald/serviceapp.git
+```
+
+Navigate to application root folder
+
+```bash
+cd recipe
+```
+
+Install all required dependencies for the app
+
+```bash
+npm install
+```
+
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
